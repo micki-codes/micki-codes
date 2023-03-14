@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/webdev-michelle/">
     <img src="https://img.shields.io/badge/webdev--michelle-2065C3?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/micki_codes/">
     <img src="https://img.shields.io/badge/micki__codes-D52364?logo=instagram&logoColor=white"/>
   </a>
 </div>
