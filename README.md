@@ -46,7 +46,7 @@ I'm Michelle, a frontend developer with a passion for creating beautiful and fun
 
 ### :space_invader: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=micki-codes&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=micki-codes&count_private=true&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micki-codes&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
